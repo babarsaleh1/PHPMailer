@@ -39,3 +39,4 @@ return [
 
     'exclude_file_regex' => '@^vendor/.*/(tests|Tests)/@',
 ];
+//       party code, directories containing that code.fix
